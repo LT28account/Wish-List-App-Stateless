@@ -1,4 +1,4 @@
-# Wish List Stateless
+# Wish List App Stateless
 
 For Applications for Mobile Devices in Spring of 2022. 
 Wish list application done with only Stateless widgets. 
