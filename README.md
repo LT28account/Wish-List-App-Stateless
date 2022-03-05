@@ -1,6 +1,5 @@
 # Wish List Stateless
 
-A new Flutter project.
 For Applications for Mobile Devices in Spring of 2022. 
 Wish list application done with only Stateless widgets. 
 
